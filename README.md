@@ -1,6 +1,8 @@
 # place.js
 This is a plugin to populate Countries and their Mobile code, also populate States and Cities for India only.
 
+Dependencies : Jquery 
+
 Methods Available : 
 
 place.getCountries() : will return all the countries from the json defined in the plugin.
